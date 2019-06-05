@@ -1,4 +1,4 @@
-## Software Engineer, [IBM Research](https://medium.com/@IBMResearch)
+## :smile_cat: Software Engineer, [IBM Research](https://medium.com/@IBMResearch)
 
 ***When I’m not busy helping the scientists to bring into the world the latest inventions of our labs I like to write free software, specially insecurity tools.***
 
