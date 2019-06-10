@@ -19,7 +19,7 @@
 
 [jesusprubio@members.fsf.org](mailto:jesusprubio@members.fsf.org) ([PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7B43040350F5A2BF))
 
-PS: Almost forgot! We recently started [this platform](https://freestylestats.com). It’s a pet project of now, but we have very good hopes. We’ll see how it finishes this time …
+PS: Almost forgot! We recently started [this platform](https://freestylestats.com). It’s a pet project for now, but we have very good hopes. We’ll see how it finishes this time …
 
 <br>
 
