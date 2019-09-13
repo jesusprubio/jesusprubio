@@ -17,7 +17,7 @@
 
 :call_me_hand: If you want to contribute to any of these activities you can [ping me on Twitter](https://twitter.com/jesusprubio), buy me [a huge beer](https://www.buymeacoffee.com/jesusprubio) or drop some coins [here](https://gist.github.com/jesusprubio/0c7f664d7998dc987c28673117781d57).
 
-[jesusprubio@members.fsf.org](mailto:jesusprubio@members.fsf.org) ([PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7B43040350F5A2BF))
+[jesusprubio@gmail.com](mailto:jesusprubio@gmail.com) ([PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7B43040350F5A2BF))
 
 PS: Almost forgot! We recently started [this platform](https://freestylestats.com). It’s a pet project for now, but we have very good hopes. We’ll see how it finishes this time …
 
