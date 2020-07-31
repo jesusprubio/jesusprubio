@@ -2,9 +2,6 @@
 
 ### When I’m not busy helping the scientists at [IBM Research](https://medium.com/@IBMResearch) to bring into the world the latest inventions of our labs I like to write free software, specially insecurity tools
 
-![Ribadeo image](https://cdn-images-1.medium.com/max/2600/0*wfypd_AcoIuDCd9I)
-<sub>Photo by [Juan Gomez](https://unsplash.com/@nosoylasonia) on [Unsplash](https://unsplash.com)</sub>
-
 :alien: In other lives, I worked as a VoIP programmer, a systems administrator, and even pentester.
 
 :cloud: In particular, I have very good memories of some stages. At [Quobis](https://www.quobis.com), a company from home that I love, I pivoted from system engineer to developer. Later, with [Filterly](https://techcrunch.com/2015/09/22/filterly), appeared my first startup adventure. Playing with the whole stack by necessity and a time to learn to write JavaScript *as the best*. A couple of years after that I ended up at [Feeld](https://www.feeld.co). More startup world party, tons of requests per minute and almost the same lessons learned.
