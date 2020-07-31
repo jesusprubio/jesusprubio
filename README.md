@@ -12,7 +12,7 @@
 
 :pencil: Years ago I had [a blog](http://nicerosniunos.blogspot.com) and I used to collaborate with sites like [Security By Default](http://www.securitybydefault.com/search?q=Art%C3%ADculo+cortes%C3%ADa+de+Jes%C3%BAs+P%C3%A9rez), [webrtcH4cKS](https://webrtchacks.com/webrtc-hybrid-applications) or [Flu Project](http://nicerosniunos.blogspot.com/2011/11/links-to.html). All the presentations, workshop materials, and articles are organized in my [Linkedin profile](https://es.linkedin.com/in/jesusprubio) (under *Publications*).
 
-:call_me_hand: If you want to contribute to any of these activities you can [ping me on Twitter](https://twitter.com/jesusprubio), buy me [a huge beer](https://www.buymeacoffee.com/jesusprubio) or drop some coins [here](https://gist.github.com/jesusprubio/0c7f664d7998dc987c28673117781d57).
+:call_me_hand: If you want to contribute to any of these activities you can [ping me on Twitter](https://twitter.com/jesusprubio) or drop some coins [here](https://gist.github.com/jesusprubio/0c7f664d7998dc987c28673117781d57).
 
 [jesusprubio@gmail.com](mailto:jesusprubio@gmail.com) ([PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7B43040350F5A2BF))
 
