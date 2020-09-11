@@ -1,6 +1,4 @@
-## :call_me_hand:
-
-### When I’m not busy helping the scientists at [IBM Research](https://medium.com/@IBMResearch) to bring into the world the latest inventions of our labs I like to write free software, specially insecurity tools
+### :call_me_hand: When I’m not busy helping the scientists at [IBM Research](https://medium.com/@IBMResearch) to bring into the world the latest inventions of our labs I like to write free software, specially insecurity tools
 
 :alien: In other lives, I worked as a VoIP programmer, a systems administrator, and even pentester.
 
