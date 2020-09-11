@@ -2,7 +2,7 @@
 
 :alien: In other lives, I worked as a VoIP programmer, a systems administrator, and even pentester.
 
-:cloud: In particular, I have very good memories of some stages. At [Quobis](https://www.quobis.com), a company from home that I love, I pivoted from system engineer to developer. Later, with [Filterly](https://techcrunch.com/2015/09/22/filterly), appeared my first startup adventure. Playing with the whole stack by necessity and a time to learn to write JavaScript *as the best*. A couple of years after that I ended up at [Feeld](https://www.feeld.co). More startup world party, tons of requests per minute and almost the same lessons learned.
+:cloud: In particular, I have very good memories of some stages. At [Quobis](https://www.quobis.com), a company from home that I love, I pivoted from system engineer to developer. Later, with [Filterly](https://techcrunch.com/2015/09/22/filterly), appeared my first startup adventure. Playing with the whole stack by necessity and a time to learn to write very good JavaScript. A couple of years after that I ended up at [Feeld](https://www.feeld.co). More startup world party, tons of requests per minute and almost the same lessons learned.
 
 📦 You can check some of my open source work at [GitHub](https://github.com/jesusprubio). We could define myself as a [Node.js](https://nodejs.org) enthusiast and a [Rust](https://www.rust-lang.org) wannabe.
 
