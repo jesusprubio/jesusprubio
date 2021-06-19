@@ -8,7 +8,7 @@
 
 :pencil: Years ago I had [a blog](http://nicerosniunos.blogspot.com) and I used to collaborate with sites like [Security By Default](http://www.securitybydefault.com/search?q=Art%C3%ADculo+cortes%C3%ADa+de+Jes%C3%BAs+P%C3%A9rez), [webrtcH4cKS](https://webrtchacks.com/webrtc-hybrid-applications) or [Flu Project](http://nicerosniunos.blogspot.com/2011/11/links-to.html). All the presentations, workshop materials, and articles are organized in my [Linkedin profile](https://es.linkedin.com/in/jesusprubio) (under *Publications*).
 
-[jesusprubio@gmail.com](mailto:jesusprubio@gmail.com) ([PGP](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7B43040350F5A2BF))
+[jesusprubio@gmail.com](mailto:jesusprubio@gmail.com)
 
 PS: Almost forgot! We recently started [this platform](https://freestylestats.com). It’s a pet project for now, but we have very good hopes. We’ll see how it finishes this time …
 
