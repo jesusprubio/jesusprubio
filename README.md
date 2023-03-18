@@ -1,4 +1,4 @@
-### :call_me_hand: When I am not working at [Trebellar](https://trebellar.com/), where we help companies and individuals save money and reduce their carbon footprint, I enjoy writing free software, particularly in the area of security tools.
+### :call_me_hand: When I am not working on [Trebellar](https://trebellar.com/), where we help to reduce the carbon footprint, I enjoy writing free software, particularly in the area of security tools.
 
 :alien: In previous roles, I have worked as a VoIP programmer, systems administrator and penetration tester.
 
