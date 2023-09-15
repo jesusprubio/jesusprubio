@@ -1,4 +1,4 @@
-### :call_me_hand: When I am building [Trebellar](https://trebellar.com/), I enjoy writing free software, specially security tools.
+### :call_me_hand: When I am not building [Trebellar](https://trebellar.com/), I enjoy writing free software, specially security tools.
 
 :alien: In past lifes, I have worked as a sysadmin.
 
