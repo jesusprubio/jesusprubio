@@ -1,6 +1,6 @@
-### :call_me_hand: When I am not working on [Trebellar](https://trebellar.com/), where we help to reduce the carbon footprint, I enjoy writing free software, particularly in the area of security tools.
+### :call_me_hand: When I am not working on [Trebellar](https://trebellar.com/), I enjoy writing free software, specially security tools.
 
-:alien: In previous roles, I have worked as a VoIP programmer, systems administrator and penetration tester.
+:alien: In past lifes, I have worked as a sysadmin.
 
 :cloud: I have fond memories of certain stages in my career. At [Quobis](https://www.quobis.com/), a company I cherish, I transitioned from a system engineer to developer. Later, I had my first startup experience with [Filterly](https://techcrunch.com/2015/09/22/filterly/), where I worked with the entire stack and learned to write proficient JavaScript. A couple of years later, I joined [Feeld](https://www.feeld.co/), where the startup party continued and gained experience handling high volumes of requests. In recent years, I have been assisting scientists at [IBM Research](https://research.ibm.com/) in bringing their lab latest inventions to the market.
 
